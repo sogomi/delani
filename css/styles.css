@@ -2,6 +2,7 @@
     background-image: url("../img/h_img.jpg");
     padding: 5%;
     text-align: center;
+    color: white;
 
 }
 .portfolio1 {
@@ -11,4 +12,17 @@
 .portfolio2 {
     text-align: center;
     margin: 1.5%;
+}
+.about {
+    text-align: center;
+    margin: 1.5%;
+}
+.keyboard {
+    background-image: url("../img/s_image.jpg");
+    padding: 5%;
+    text-align: center;
+    color: white;
+}
+.what{
+    text-align: center;
 }
