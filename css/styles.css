@@ -1,0 +1,14 @@
+.landing {
+    background-image: url("../img/h_img.jpg");
+    padding: 5%;
+    text-align: center;
+
+}
+.portfolio1 {
+    text-align: center; 
+    margin: 1.5%;
+}
+.portfolio2 {
+    text-align: center;
+    margin: 1.5%;
+}
