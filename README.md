@@ -1,4 +1,5 @@
-# Delani
+# Project's Name
+Delani
 # Author 
 Benedict Sogomi
 <a href="https://sogomi.github.io/delani/">veiw</a>
