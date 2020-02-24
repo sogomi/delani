@@ -24,6 +24,5 @@ This webpage displays kind of services offered by Delani Studio.
 * Bootsrap
 # Support and Contact Details
 For more inquiries and information contact me on my email:sogomib@gmail.com
-
 # Licence
 MIT Licence Copyright (C) [2020] [Delani Studio]
