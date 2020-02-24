@@ -11,3 +11,6 @@ $(document).ready(function(sogomi){
         sogomi.preventDefault
     })
 })
+$(".card").hover(function(){
+    $(this).children(".two").fadeToggle("fast", "linear");
+});
