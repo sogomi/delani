@@ -8,6 +8,13 @@ This webpage displays kind of services offered by Delani Studio.
 * Initialize the file in command line.
 * Create a repository on github and copy the link.
 * Clone the file using "git clone link"
+## BDD
+| Behaviour      | Input        | Output       |
+| :------------- | :----------: | -----------: |
+|  Enter your name  |   Benedict Sogomi|     |
+| Enter your Email Address  | sogomib@gmail.com |   |
+| Enter your message or comment   |      |     |
+| Press Submit|     |we received your message. Thank you for reaching out to us.|
 # Technologies used
 * HTML
 * CSS
